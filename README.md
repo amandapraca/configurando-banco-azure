@@ -20,8 +20,9 @@ Registrar os passos e desafios que encontrei durante a configuração.
 ## 📷 Imagens do Processo  
 Aqui estão algumas capturas de tela do projeto:  
 
-![Imagem 1](./images/A_conexao_do_banco_com_uma_ferramenta_como_Azure_Data_Studio.png)
-![Imagem 2](./images/A_configuracao_inicial_do_banco_na_Azure.png)
+![Imagem 1](./images/conexao_banco_azure.png)
+![Imagem 2](./images/configuracao_inicial_azure.png)
+
   
 
 ## 🔗 Link do projeto  
