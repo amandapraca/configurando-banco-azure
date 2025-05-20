@@ -17,8 +17,12 @@ Registrar os passos e desafios que encontrei durante a configuração.
 3. Me conectei via Azure Data Studio.  
 4. Executei comandos SQL para a configuração.  
 
-## 📷 Imagens do processo  
-As capturas de tela do projeto estão na pasta [`/images`](./images).  
+## 📷 Imagens do Processo  
+Aqui estão algumas capturas de tela do projeto:  
+
+![Imagem 1](./images/A_conexao_do_banco_com_uma_ferramenta_como_Azure_Data_Studio.png)
+![Imagem 2](./images/A_configuracao_inicial_do_banco_na_Azure.png)
+  
 
 ## 🔗 Link do projeto  
 [Repositório no GitHub](https://github.com/amandapraca/configurando-banco-azure)  
